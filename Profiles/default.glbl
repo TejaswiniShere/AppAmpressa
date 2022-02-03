@@ -4,4 +4,124 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Users/siddhatech/Downloads/AppEmpressa2501202212QA.ipa'</initValue>
+      <name>applicationQA</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ambasa'</initValue>
+      <name>usuarioAmbasa</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>' 321321'</initValue>
+      <name>contrasena</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Ambasa'</initValue>
+      <name>usuerio empresa</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Login-Page/Cridential Error-Alert/Login-Error - Por favor confirme su usuario yo contrasea y digtelos nuevamente')</initValue>
+      <name>Continuar</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Login-Page/Token_Error/Token_error-Alert/Back-Button - tokenPAGE')</initValue>
+      <name>BackButton</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1111'</initValue>
+      <name>SetCode</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Login-Page/Done-Button')</initValue>
+      <name>DoneButton</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>' '</initValue>
+      <name>status</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>   findTestObject('login Obj/login-codepage/dashbord page obj/Cuentas/a cuentas terceros/Back Button - new left')</initValue>
+      <name>CPageBackButton</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1250'</initValue>
+      <name>ACCNo</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>null</initValue>
+      <name>correct_msg</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Dash-Board-Page/Cuentas page/Account Numbers/Ahorros o Corriente  8729')</initValue>
+      <name>ACCNO8729</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Dash-Board-Page/Cuentas page/Account Numbers/XCUIElementTypeStaticText - Euro 1  3204')</initValue>
+      <name>ACC3204</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Users/siddhatech/Downloads/AppEmpressa2701202201Dev.ipa'</initValue>
+      <name>applicationDEV</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('DEV -Obj/dashboadPage/Prestamo/hostorial/XCUIElementTypeStaticText - Prstamo  4663')</initValue>
+      <name>Acc4663</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'spuello'</initValue>
+      <name>userioSpuello</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('Dash-Board-Page/Cuentas page/Account Numbers/acc-Ahorros o Corriente  759030075')</initValue>
+      <name>ACC0075</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('DEV -Obj/dashboadPage/Burger bar/Transferencias/interbancarios/XCUIElementTypeStaticText - Jorge Caridad O Ambar Nacional  325000098')</initValue>
+      <name>Acc0098</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('DEV -Obj/dashboadPage/Estatus_de_transacciones/Burger bar/Transferencias/Entre mis cuntas/XCUIElementTypeStaticText desde- Ahorros o Corriente  765676929')</initValue>
+      <name>ACCDesde6929</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('DEV -Obj/dashboadPage/Burger bar/Transferencias/interbancarios/XCUIElementTypeStaticText desde- Ahorros o Corriente  54110537')</initValue>
+      <name>ACCO537</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('DEV -Obj/dashboadPage/Burger bar/Transferencias/Entre mis cuntas/XCUIElementTypeStaticText - Ahorros o Corriente  757065982')</initValue>
+      <name>ACC5982</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('DEV -Obj/dashboadPage/cuentas/XCUIElementTypeStaticText Cuentas- Ahorros o Corriente  6929')</initValue>
+      <name>ACCcuenta6929</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('DEV -Obj/dashboadPage/Prestamo/hostorial/XCUIElementTypeStaticText - Prstamo  0472')</initValue>
+      <name>ACC0472</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
